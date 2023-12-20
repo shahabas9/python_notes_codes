@@ -1,0 +1,28 @@
+write a class that should do
+    1. fetch all the data from  the given list using recursion method
+    2. give fibonacci numbers based on the given length usign recursion method
+    3. give the factorial value of the given number
+
+
+
+
+
+"""
+create a class with name of 'Registrationform' and it should have the below methods:
+    1. first addUser method - it should receive the following details:
+        a. Id (should be auto generate)
+        b. First Name
+        c. Email Address
+        d. Phone Number
+        e. City
+        f. State
+        g. Country
+    2. update user based on Id
+    3. Delete user based on Id
+    4. Get all the users
+"""
+
+obj.addUaser("skdbfasdbnj")
+obj.updateuser({})
+obj.deleteuser(1)
+obj.getallusers()

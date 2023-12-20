@@ -1,0 +1,39 @@
+String Handling Exercises
+
+
+1.  Count the number of occurrences of a particular character in a string.
+
+2.  Get the substring before the last occurrence of a particular character in a string.
+
+3.  Check if a string starts with a particular substring.
+
+4.  Check if a string ends with a particular substring.
+
+5.  Get the length of a string.
+
+6.  Replace all occurrences of a particular character in a string with another character.
+
+7.  Check if a string contains only numeric characters.
+
+8.  Check if a string contains only alphabetical characters.
+
+9.  Remove whitespace from the beginning and end of a string.
+
+10. Find the index of the first occurrence of a particular substring in a string.
+
+11. Count the number of occurrences of a particular substring in a string.
+
+12. Check if a string is a valid Python identifier.
+
+13. Check if a string is a palindrome (reads the same backwards as forwards).
+
+14. Convert a string to a list of its characters.
+
+15. Convert a list of strings to a single string.
+
+16. Get every second character of a string.
+
+17. Spilt a string with its center character or with space and give the type of the result after splitting.
+
+18. Partition a string and give the type of the result after partitioning.
+

@@ -1,0 +1,82 @@
+List Exercises
+
+1.  Create a list with different data types and with the length of 10 and show me the length.
+
+2.  Append an item to a list.
+
+3.  Remove an item from a list by value.
+
+4.  Remove an item from a list by index.
+
+5.  Check if an item exists in a list.
+
+6.  Get the index of the first occurrence of an item in a list.
+
+9.  Reverse the order of a list.
+
+10. Get the length of a list.
+
+11. Access a sublist of a list by slicing. 
+
+12. make a list with len of 10. one of the data should be a list. Access that sublist and print the third index of that sublist and it should be string.
+and split that string with center then capitalize it and then find out it is numeric, alphanumeric. show me the type of that result.
+
+
+13. Make a list with len of ten, then change seventh index of the list with "changedData" and print the list.
+
+14. concatenate two lists.
+
+
+
+Tuple Exercises
+
+Create a Tuple with length of ten...and show the length.
+
+1.  Access a specific element at a given index in a tuple.
+2.  Check if an item exists in a tuple.
+3.  Count the number of occurrences of an item in a tuple.
+4.  Concatenate two tuples.
+5.  Find the index of the first occurrence of an item in a tuple.
+6.  Create a new tuple by repeating an existing tuple a certain number of times.
+7.  Iterate over the elements of a tuple using a for loop.
+8.  Check if all elements in a tuple satisfy a certain condition.
+9.  Find the maximum element in a tuple.
+10. Convert a tuple to a list.
+
+
+Set Exercises
+
+Create a set with length of ten...and show the length.
+
+1.  Check if an element exists in a set.
+2.  Add an element to a set.
+3.  Remove an element from a set.
+4.  Find the union of two sets.
+5.  Find the intersection of two sets.
+6.  Find the difference between two sets.
+7.  Check if one set is a subset of another set.
+8.  Find the symmetric difference between two sets.
+9.  Get the length (number of elements) of a set. 
+10. Convert a list or tuple to a set.
+11. Remove all elements from a set.
+12. Iterate over the elements of a set using a for loop.
+
+Dictionary Exercises
+
+Create a dictionary with length of ten...and show the length. 
+
+
+1.  Check if a key exists in a dictionary.
+2.  Get the number of key-value pairs in a dictionary.
+3.  Add a new key-value pair to a dictionary.
+4.  Update the value associated with an existing key in a dictionary.
+5.  Remove a key-value pair from a dictionary.
+6.  Clear all key-value pairs from a dictionary.
+7.  Check if a value exists in a dictionary.
+8.  Get a list of all keys in a dictionary.
+9.  Get a list of all values in a dictionary.
+10. Merge two dictionaries into a new dictionary.
+11. Copy a dictionary to a new dictionary.
+
+
+
